@@ -1,0 +1,15 @@
+label,input,button {
+    margin: 10px;
+    padding: 5px;
+
+}
+footer{
+    bottom: 0;
+    position: absolute;
+    width: 90%;
+    height: 40px;
+}
+header {
+    background-color: rgb(80, 106, 255);
+  }
+  
